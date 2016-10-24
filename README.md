@@ -11,6 +11,8 @@ Created On: 7/10/2016
 
 ## Change Log
 
+**Date: 07/14/2016 - Version 0.9.0** - Setup Test Code for LEDs.
+
 **Date: 10/05/2016 - Version 1.0.0** - Setup Hour, Minute, and Second selection string.
 
 **Date: 10/6/2016 - Version 1.0.5** - Setup DS1307 RTC to get the time and also added LED brightness code.
