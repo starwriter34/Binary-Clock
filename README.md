@@ -27,14 +27,19 @@ function on or off, the second toggle will toggle whether the time springs forwa
 
 **Date: 10/9/2016 - Version 1.0.8** - Added color themes.
 
+**Date: 10/30/2016 - Version 1.1.0** - Scrapped the code and started over. Themes is going to be scaled back to Dual Color themes
+and custom color. Instead of the nested if statements, I went with a for loop instead. I still working on the code to be better. I
+believe if I setup an array to write the status of each digit, the code will be faster. A0-A2 will have pots on them to select a color.
+Back to the Drawing Board. :)
+
 **Things to add:**
 **Function:**
 
-- [x] Night Themes (Dual Color)
-- [x] Color Choices
+- [ ] Night Themes (Dual Color)
+- [ ] Color Choices
 - [ ] NTP Update of RTC
 - [ ] Show the Date
-- [x] Daylight Savings time
+- [ ] Daylight Savings time
 - [ ] Alarm Function
 - [ ] Manually Setting the Time
 - [ ] Manually Changing the Color
